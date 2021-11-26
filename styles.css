@@ -30,6 +30,26 @@ h4 {
     background: #f5d22e;
 }
 
-.paragraph p {
+.paragraph0 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.paragraph1 p {
+    background-color: red;
+    font-size: large;
+}
+
+.paragraph2 p {
+    background-color: royalblue;
+    font-size: large;
+}
+
+.paragraph3 p {
+    background-color: silver;
+    font-family: cursive;
+}
+
+.paragraph4 p {
+    background-color: springgreen;
+    font-family: sans-serif;
 }
